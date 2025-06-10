@@ -11,7 +11,6 @@ printf("leap:");
 else
 {
     printf(" not leap:");
-
 }
 }
 //enter the year:2024
